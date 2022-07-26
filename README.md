@@ -30,12 +30,10 @@ cd bun-chain && yarn
 
 ```
 cd node_version && yarn start
-
 ```
 
 4. Run bun version (Currently unavailable)
 
 ```
 yarn start
-
 ```
